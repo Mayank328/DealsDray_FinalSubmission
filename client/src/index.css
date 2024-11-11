@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #fbfbf4;
+}
+
+input[type="submit"] {
+    background-color: #32A132;
+    color: #ffffff;
+  }
+  
